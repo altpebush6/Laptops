@@ -1,0 +1,61 @@
+.navbarlogo{
+  margin-right:20px;
+  margin-top: 5px;
+}
+.ptg{
+  font-family: 'Audiowide', cursive;
+}
+.itemss{
+  font-family: 'Redressed', cursive;
+  font-size: 18px;
+}
+.contain{
+  position: relative;
+  margin: auto;
+  height: 300px;
+  width: auto;
+}
+.laptopfoto{
+  height: 300px;
+  float: left;
+}
+.paragraf{
+  margin-top: 40px;
+  float: left;
+  width:auto;
+}
+.yazi{
+  text-align: center;
+  padding-top: 90px;
+}
+.hakkimizda{
+  text-align: center;
+}
+.son{
+  width:auto;
+  margin-top: 50px;
+  height: 175px;
+  background-color: black;
+}
+.sonptg{
+  font-size: 20px;
+  position: relative;
+  left:-100px;
+  text-decoration: none;
+  color: white;
+  font-family: 'Audiowide', cursive;
+}
+.sosyal{
+    color: white;
+    width: 50px;
+    margin-right:35px;
+}
+.sosyal:hover{
+  color:#00ea4a;
+}
+.sosyalx{
+  cursor:pointer;
+}
+.sosyalx:hover{
+  color:#00ea4a;
+}
